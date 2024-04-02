@@ -62,13 +62,12 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 - Email address
 - First name and last name
-
-
-
-
+- Age
+- Gender
+- Height
+- Weight
+- Health Data
 - Usage Data
-
-
 
 #### Usage Data
 
@@ -86,10 +85,7 @@ We may also collect information that Your browser sends whenever You visit our S
 The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
 
 - Google
-- Facebook
-- Instagram
-- Twitter
-- LinkedIn
+- Apple
 
 If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.
 
@@ -185,29 +181,11 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Children's Privacy
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
+Our Services are not directed at, or intended for, children under 18 years old.
 
-If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
-
+If you are aware of anyone under 18 using the Services, please contact us at support@step.app and we will take the required steps to delete such information and/or delete the account.
 
 ## Links to Other Websites
 
